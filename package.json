@@ -1,0 +1,31 @@
+{
+  "name": "iterator-chunker",
+  "version": "1.0.0",
+  "description": "Breaks down iterators in to chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrell-pittman/iterator-chunker.git"
+  },
+  "keywords": [
+    "iterator",
+    "chunk",
+    "chunker"
+  ],
+  "author": "Darrell Pittman <darrell@darrellpittman.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrell-pittman/iterator-chunker/issues"
+  },
+  "homepage": "https://github.com/darrell-pittman/iterator-chunker#readme",
+  "devDependencies": {
+    "mocha": "2.x.x",
+    "chai": "3.5.x"
+  },
+  "dependencies": {
+    "generator-runner": "^2.2.0"
+  }
+}
