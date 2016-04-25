@@ -29,8 +29,5 @@
   "devDependencies": {
     "mocha": "2.x.x",
     "chai": "3.5.x"
-  },
-  "dependencies": {
-    "generator-runner": "^2.2.0"
   }
 }

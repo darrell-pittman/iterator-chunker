@@ -1,6 +1,5 @@
 "use strict"
 var EventEmitter = require('events').EventEmitter;
-var sync = require('generator-runner');
 var util = require('util');
 
 var privateProps = new WeakMap()
