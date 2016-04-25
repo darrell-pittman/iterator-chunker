@@ -13,7 +13,12 @@
   "keywords": [
     "iterator",
     "chunk",
-    "chunker"
+    "chunker",
+    "iterable",
+    "event",
+    "EventEmitter",
+    "async",
+    "asynchronous"
   ],
   "author": "Darrell Pittman <darrell@darrellpittman.ca>",
   "license": "ISC",
