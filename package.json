@@ -1,6 +1,6 @@
 {
   "name": "iterator-chunker",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Breaks down iterators in to chunks",
   "main": "index.js",
   "scripts": {
