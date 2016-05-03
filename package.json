@@ -16,7 +16,8 @@
     "chunker",
     "iterable",
     "event",
-    "EventEmitter",
+    "Readable",
+    "stream",
     "async",
     "asynchronous"
   ],
